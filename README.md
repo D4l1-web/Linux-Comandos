@@ -25,10 +25,93 @@ Parameter o argument especifica cualquier información necesaria para el comando
 
 ## COMANDOS BÁSICOS Y FUNDAMENTALES
 
-Te permite 
+Lista el contenido de un directorio
 
+```
+ls
+```
+Muestra la ruta del directorio en el que nos encontramos 
+```
+pwd
+```
+Movimiento entre directorios 
+```
+cd
+```
+Lectura de ficheros
+```
+cat
+```
+Copia de ficheros o directorios
+```
+cp
+```
+Mover fichero o directorio
+```
+mv
+```
+Borrar un archivo
+```
+rm
+```
+Crear un archivo vacío
+```
+touch
+```
+Crear un archivo e editarlo directamente
+```
+nano
+```
+Comprobar tipo de fichero
+```
+file
+```
+Crear directorio
+```
+mkdir
+```
+Borrar directorio
+```
+rmdir
+```
+Buscar cadenas dentro de los archivos
+```
+grep
+```
+Busca, sustituye o elimina patrones de un archivo
+```
+sed
+```
+Comprara las diferencias entre dos archivos
+```
+diff
+```
+Ubicación de un archivo o directorio
+```
+find
+```
+Ejecución de comando como superusuario
+```
+sudo
+```
+Ejecutar programas de Shell como otro usuario
 ```
 su
 ```
+Modificar permisos de lectura, escritura e ejecución de un archivo
+```
+chmod
+```
+Cambiar la propiedad de un archivo o directorio
+```
+chown
+```
+Crear o eliminar un usuario
+```
+useradd y userdel
+```
+
+
+
 
 #https://www.hostinger.es/tutoriales/linux-comandos
