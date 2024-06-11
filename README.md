@@ -1,6 +1,6 @@
 # Linux-Comandos
 
-1.  [Comandos básicos](#comandos-basicos)
+1. [Comandos básicos](#comandos-basicos)(https://github.com/D4l1-web/Linux-Comandos?tab=readme-ov-file#comandos-b%C3%A1sicos-y-fundamentales)
 
 # COMANDOS Y DEFINICIONES
 
